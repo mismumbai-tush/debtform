@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
-import { EnquiryFormData, CustomerEnquiry } from './types';
-import { BRANCHES, BRANCH_SALES_MAPPING } from './constants';
+import { EnquiryFormData, CustomerEnquiry } from './types.ts';
+import { BRANCHES, BRANCH_SALES_MAPPING } from './constants.ts';
 
 const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzDDBNiCbyUEDUbNt2FQTISfPaACZ0bCEgGyfQPb9pd2T0Y3f5tTUNVnBNXaYvfnX-g_A/exec';
 
