@@ -3,7 +3,7 @@ import { BranchData } from './types';
 
 export const BRANCH_SALES_MAPPING: BranchData = {
   "Mumbai": ["Vishal Ambhore","Amit Korgaonkar", "Santosh Pachratkar", "Rakesh Jain", "Kamlesh Sutar", "Pradeep Jadhav"],
-  "Ulasnagar": ["Sachin Bhosle","Shiv Ratan (Shivam)", "Viay Sutar"],
+  "Ulhasnagar": ["Sachin Bhosle","Shiv Ratan (Shivam)", "Viay Sutar"],
   "Kolkata": ["Rajesh Jain"],
   "Jaipur": ["Durgesh Bhati"],
   "Ludhiana": ["Mahesh Chandeliya"],
